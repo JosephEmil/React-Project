@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Operations done for
+1. React components (Presentational & Container)
+2. Functional Components
+3. React Router
+4. Single page application Development
+5. Controlled Forms and Validation
+6. Uncontrolled Forms
+7. Redux, Redux Form and Validation
+8. Combining Reducers
+9. Redux Actions and Thunks
+10. Fetch( from server, handling errors, post comments )
+11. React Animation Components
+
 ## Available Scripts
 
 In the project directory, you can run:
